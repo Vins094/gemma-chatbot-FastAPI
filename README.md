@@ -1,10 +1,5 @@
-# gemma-chatbot-FastAPI
-# gemma-chatbot
-Simple conversational chatbot by Gemma
 
 # DermaBot - Chatbot using FastAPI and Gemma Model 
-
-
 
 ## Description
 
