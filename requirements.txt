@@ -1,0 +1,6 @@
+transformers>=4.0.0
+torch>=1.9.0
+scikit-learn>=0.24.0
+fastapi
+uvicorn
+pydantic
