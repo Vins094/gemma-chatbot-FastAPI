@@ -3,7 +3,7 @@
 
 ## Description
 
-**DermaBot** is an AI-powered chatbot built using the **Gemma Model** from Hugging Face and served through **FastAPI**. This bot provides intelligent conversational capabilities with a focus on dermatology-related queries.
+**DermaBot** is an AI-powered chatbot built using the **Gemma Model** from Hugging Face and served through **FastAPI**. This bot provides intelligent conversational capabilities.
 
 ### Features:
 - Powered by **Gemma-2B-IT** (a large pre-trained model)
@@ -48,7 +48,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Your location/to clone repository.git
-   cd gemma-chatbot-FastAPI
+   cd Project_folder
    
 2. Create and activate virtual environment:
     python -m venv myenv
